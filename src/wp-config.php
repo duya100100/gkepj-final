@@ -29,7 +29,7 @@ define('DB_USER', 'guest1');
 define('DB_PASSWORD', '123456a@');
 
 /** Hostname của database */
-define('DB_HOST', '35.193.0.78');
+define('DB_HOST', 'clever-dolphin-253306:us-central1:wp-sql');
 
 /** Database charset sử dụng để tạo bảng database. */
 define('DB_CHARSET', 'utf8');
